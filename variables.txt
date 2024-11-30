@@ -1,0 +1,3 @@
+input_file=/mnt/Data/Kdrive/Documents/PrenomsInsee/prenoms-2023-nat.csv
+output_file=/mnt/Data/Kdrive/Documents/PrenomsInsee/abigaelleInsee.csv
+keys=IGAEL,YGAEL,IGAIL,YGAIL
